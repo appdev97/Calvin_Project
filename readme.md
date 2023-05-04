@@ -8,7 +8,7 @@
 
 This is a React Typescript app created using [Vite](https://vitejs.dev/).
 
-Watch [Live Demo]().
+Watch [Live Demo](https://stackblitz.com/edit/github-35emk6-t4h4j9).
 
 ## Installation
 
